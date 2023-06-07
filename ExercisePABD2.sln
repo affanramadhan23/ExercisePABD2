@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercisePABD2", "ExercisePABD2\ExercisePABD2.csproj", "{A56CA0E5-6174-4AC6-8AE0-E36C9F35B359}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A56CA0E5-6174-4AC6-8AE0-E36C9F35B359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A56CA0E5-6174-4AC6-8AE0-E36C9F35B359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A56CA0E5-6174-4AC6-8AE0-E36C9F35B359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A56CA0E5-6174-4AC6-8AE0-E36C9F35B359}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E17B142F-3AA8-4DD9-91D4-93145C4FCAEA}
+	EndGlobalSection
+EndGlobal
